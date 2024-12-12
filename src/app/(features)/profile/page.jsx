@@ -1,12 +1,14 @@
 import React from "react";
 
-const Admin = () => {
+const Profile = () => {
     return (
         <div style={{ padding: "20px" }}>
-            <h1>Admin Dashboard</h1>
-            <p>Welcome to the Admin Dashboard. Manage your application here.</p>
+            <h1>Profile</h1>
+            
+            <p>Welcome to the Profile page. Manage your application here.</p>
         </div>
     );
 };
 
-export default Admin;
+export default Profile;
+
