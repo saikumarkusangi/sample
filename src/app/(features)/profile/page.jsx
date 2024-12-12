@@ -22,16 +22,9 @@ import {
 
 const Profile = () => {
     return (
-<<<<<<< HEAD
-        <div style={{ padding: "20px" }}>
-            <h1>Admin Dashboard</h1>
-            <p>Welcome to the Admin Dashboard. Manage your application here.</p>
-<<<<<<< HEAD
-            <p> add my profile changes in development</p>
-=======
-
+<>
             <p> second change sathwik</p>
-=======
+
         <div className="max-w-4xl mx-auto p-8 bg-white shadow-lg rounded-lg">
             <div className="flex flex-col items-center mb-8">
                 <div className="relative w-32 h-32 mb-4">
@@ -135,9 +128,8 @@ const Profile = () => {
 
 
             <p className="text-black text-center"> sai sathwik created</p>
->>>>>>> 760afd7b7b2b18cebdf29f9f2bfe05e36e4d8629
->>>>>>> 7674b899f3b6fc9e8b7f415a803b93ea9a7a59d0
         </div>
+        </>
     );
 };
 
