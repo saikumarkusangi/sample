@@ -39,7 +39,9 @@ export default function Home() {
                 <Image
                   src={mentor.image}
                   alt={mentor.name}
-                  fill
+                  
+                  width={100}
+                  height={100}
                   className="object-cover"
                 />
               </div>
@@ -89,7 +91,7 @@ const mentors = [
     name: 'Caroline',
     role: 'Recruitment',
     company: 'Insurance',
-    image: 'https://media.istockphoto.com/id/1682296067/photo/happy-studio-portrait-or-professional-man-real-estate-agent-or-asian-businessman-smile-for.jpg?s=612x612&w=0&k=20&c=9zbG2-9fl741fbTWw5fNgcEEe4ll-JegrGlQQ6m54rg='
+    image: 'https://avatars.githubusercontent.com/u/93697313?v=4'
   },
   {
     name: 'David',
