@@ -6,6 +6,8 @@ const Profile = () => {
             <h1>Profile</h1>
             
             <p>Welcome to the Profile page. Manage your application here.</p>
+
+            <p> sai sathwik created</p>
         </div>
     );
 };
