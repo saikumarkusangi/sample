@@ -122,6 +122,9 @@ const Profile = () => {
                     </a>
                 </div>
             </div>
+
+
+            <p className="text-black text-center"> sai sathwik created</p>
         </div>
     );
 };
